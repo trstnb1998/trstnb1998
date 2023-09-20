@@ -18,19 +18,25 @@ Hello! I'm Tristan!
 
 <table align="center">
   <tr>
-    <th><h4>Operating System</h4></th>
-    <th><h4>Current Code Editor</h4></th>
-  </tr>
-  <tr>
     <td>
       <a href="https://support.apple.com/en-au/macos" title="macOS"
         ><img
           src="https://user-images.githubusercontent.com/25181517/186884152-ae609cca-8cf1-4175-8d60-1ce1fa078ca2.png"
-          alt="VSCode"
+          alt="macOS"
           width="21px"
           height="21px"
       /></a>
       macOs
+    </td>
+    <td>
+      <a href="https://www.microsoft.com/en-au" title="Windows"
+        ><img
+          src="https://github.com/trstnb1998/trstnb1998/assets/106173556/454b2f8d-c84e-4ebe-8e50-4faf39db8881"
+          alt="Windows"
+          width="21px"
+          height="21px"
+      /></a>
+      Windows
     </td>
     <td>
       <a href="https://code.visualstudio.com/" title="VSCode"
