@@ -14,7 +14,7 @@ Hello! I'm Tristan!
   <img src="https://github.com/trstnb1998/trstnb1998/assets/106173556/702fac84-0502-46b0-a44e-43a78fc0e775" width="200px">
 </div> 
 
-<h3 align="center">Tech Stack</h3>
+<h2 align="center">Tech Stack</h2>
 
 <table align="center">
   <tr>
@@ -45,7 +45,7 @@ Hello! I'm Tristan!
   </tr>
 </table>
 
-<table>
+<table align="center">
   <tr>
     <td>
       <a href="https://getbootstrap.com/" title="Bootstrap"
