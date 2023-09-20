@@ -1,4 +1,12 @@
-### Hi there 👋
+# Hello! I'm Tristan! 🌟
+
+- Explore my portfolio [here](https://trstnb1998.netlify.app/)! 🖥️
+- Recently graduated from the General Assembly Software Engineering Immersive Bootcamp in June 2023 🎓
+- I'm actively seeking new opportunities, feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/tristanb1998/) 🤝
+- Currently diving into the world of Python programming 🐍
+- I'm also in the process of mastering tools like TDD, DevOps, and AWS! 💡
+- Need to get in touch? Visit my website! 📧
+
 
 <!--
 **trstnb1998/trstnb1998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
