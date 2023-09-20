@@ -19,41 +19,6 @@ Hello! I'm Tristan!
 <table align="center">
   <tr>
     <td>
-      <a href="https://support.apple.com/en-au/macos" title="macOS"
-        ><img
-          src="https://user-images.githubusercontent.com/25181517/186884152-ae609cca-8cf1-4175-8d60-1ce1fa078ca2.png"
-          alt="macOS"
-          width="21px"
-          height="21px"
-      /></a>
-      macOs
-    </td>
-    <td>
-      <a href="https://www.microsoft.com/en-au" title="Windows"
-        ><img
-          src="https://github.com/trstnb1998/trstnb1998/assets/106173556/454b2f8d-c84e-4ebe-8e50-4faf39db8881"
-          alt="Windows"
-          width="21px"
-          height="21px"
-      /></a>
-      Windows
-    </td>
-    <td>
-      <a href="https://code.visualstudio.com/" title="VSCode"
-        ><img
-          src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png"
-          alt="VSCode"
-          width="21px"
-          height="21px"
-      /></a>
-      Visual Studio Code
-    </td>
-  </tr>
-</table>
-
-<table align="center">
-  <tr>
-    <td>
       <a href="https://getbootstrap.com/" title="Bootstrap"
         ><img
           src="https://github.com/get-icon/geticon/raw/master/icons/bootstrap.svg"
@@ -179,6 +144,41 @@ Hello! I'm Tristan!
           height="21px"
       /></a>
       Tailwind
+    </td>
+  </tr>
+</table>
+
+<table align="center">
+  <tr>
+    <td>
+      <a href="https://support.apple.com/en-au/macos" title="macOS"
+        ><img
+          src="https://user-images.githubusercontent.com/25181517/186884152-ae609cca-8cf1-4175-8d60-1ce1fa078ca2.png"
+          alt="macOS"
+          width="21px"
+          height="21px"
+      /></a>
+      macOs
+    </td>
+    <td>
+      <a href="https://www.microsoft.com/en-au" title="Windows"
+        ><img
+          src="https://github.com/trstnb1998/trstnb1998/assets/106173556/d03ee99f-3006-436e-a070-52d5f73d4714"
+          alt="Windows"
+          width="21px"
+          height="21px"
+      /></a>
+      Windows
+    </td>
+    <td>
+      <a href="https://code.visualstudio.com/" title="VSCode"
+        ><img
+          src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png"
+          alt="VSCode"
+          width="21px"
+          height="21px"
+      /></a>
+      Visual Studio Code
     </td>
   </tr>
 </table>
