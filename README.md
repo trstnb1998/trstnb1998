@@ -1,4 +1,5 @@
-<h1 align="center">Hello! I'm Tristan! <img src="https://github.com/trstnb1998/trstnb1998/assets/106173556/6af92c1f-c04e-4a0b-bc98-22b8e3aec12c" width="100px" height="100px"
+<h1 align="center">"https://github.com/trstnb1998/trstnb1998/assets/106173556/30f64986-ae81-44d0-a3df-784077cca6cd width="100px" height="100px"
+Hello! I'm Tristan! <img src="https://github.com/trstnb1998/trstnb1998/assets/106173556/6af92c1f-c04e-4a0b-bc98-22b8e3aec12c" width="100px" height="100px"
 ></h1>
 
 - Explore my portfolio [here](https://trstnb1998.netlify.app/)! 🖥️
