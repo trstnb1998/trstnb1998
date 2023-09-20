@@ -11,7 +11,7 @@ Hello! I'm Tristan!
 - I'm also in the process of mastering tools like TDD, DevOps, and AWS! 💡
 - Need to get in touch? Visit my website! 📧
 
-<img src="https://github.com/trstnb1998/trstnb1998/assets/106173556/702fac84-0502-46b0-a44e-43a78fc0e775" align="center">
+<img src="https://github.com/trstnb1998/trstnb1998/assets/106173556/702fac84-0502-46b0-a44e-43a78fc0e775" width="100px">
 
 <!--
 **trstnb1998/trstnb1998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
