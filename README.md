@@ -1,5 +1,6 @@
-# Hello! I'm Tristan! 🌟
-
+<p align="center">
+  <h1>Hello! I'm Tristan! 🌟</h1>
+</p>
 - Explore my portfolio [here](https://trstnb1998.netlify.app/)! 🖥️
 - Recently graduated from the General Assembly Software Engineering Immersive Bootcamp in June 2023 🎓
 - I'm actively seeking new opportunities, feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/tristanb1998/) 🤝
