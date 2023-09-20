@@ -3,7 +3,7 @@
 - Explore my portfolio [here](https://trstnb1998.netlify.app/)! 🖥️
 - Recently graduated from the General Assembly Software Engineering Immersive Bootcamp in June 2023 🎓
 - I'm actively seeking new opportunities, feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/tristanb1998/) 🤝
-- Currently diving into the world of Python programming 🐍
+- I've recently started a 100 days of Python 🐍
 - I'm also in the process of mastering tools like TDD, DevOps, and AWS! 💡
 - Need to get in touch? Visit my website! 📧
 
