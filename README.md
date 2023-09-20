@@ -14,9 +14,9 @@ Hello! I'm Tristan!
   <img src="https://github.com/trstnb1998/trstnb1998/assets/106173556/702fac84-0502-46b0-a44e-43a78fc0e775" width="200px">
 </div> 
 
-<h3>Tech Stack</h3>
+<h3 align="center">Tech Stack</h3>
 
-<table >
+<table align="center">
   <tr>
     <th><h4>Operating System</h4></th>
     <th><h4>Current Code Editor</h4></th>
