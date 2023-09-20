@@ -1,4 +1,4 @@
-<h1 align="center">Hello! I'm Tristan! <img src="https://i.pinimg.com/originals/c4/18/45/c41845d2ffe4f62282f0fa1e0760f9ea.gif" width="30px"></h1>
+<h1 align="center">Hello! I'm Tristan! <img src="https://i.gifer.com/5RTG.gif" width="30px"></h1>
 
 - Explore my portfolio [here](https://trstnb1998.netlify.app/)! 🖥️
 - Recently graduated from the General Assembly Software Engineering Immersive Bootcamp in June 2023 🎓
