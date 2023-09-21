@@ -184,4 +184,4 @@ Hello! I'm Tristan!
 </table>
 
 
-![Snake animation](trstnb1998)
+![Snake animation](https://github.com/trstnb1998/trstnb1998/blob/output/github-contribution-grid-snake.svg)
