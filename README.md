@@ -5,7 +5,7 @@ Hello! I'm Tristan!
 </h1>
 
 - Explore my portfolio [here](https://trstnb1998.netlify.app/)! 🖥️
-- Recently graduated from General Assembly's Software Engineering Immersive Bootcamp in June 2023 🎓
+- Graduated from General Assembly's Software Engineering Immersive Bootcamp in June 2023 🎓
 - I'm actively seeking new opportunities, feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/tristanb1998/) 🤝
 - I've recently started a 100 days of Python course 🐍
 - I'm also in the process of learning tools like TDD, DevOps, and AWS! 💡
