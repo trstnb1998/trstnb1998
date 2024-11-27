@@ -8,7 +8,6 @@ Hello! I'm Tristan!
 - Graduated from General Assembly's Software Engineering Immersive Bootcamp in June 2023 🎓
 - I'm actively seeking new opportunities, feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/tristanb1998/) 🤝
 - I've recently started a 100 days of Python course 🐍
-- I'm also in the process of learning tools like TDD, DevOps, and AWS! 💡
 - Need to get in touch? Visit my website! 📧
 <div align="center">
   <img src="https://github.com/trstnb1998/trstnb1998/assets/106173556/702fac84-0502-46b0-a44e-43a78fc0e775" width="200px">
