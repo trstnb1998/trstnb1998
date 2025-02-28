@@ -4,7 +4,7 @@ Hello! I'm Tristan!
 <img src="https://github.com/trstnb1998/trstnb1998/assets/106173556/6af92c1f-c04e-4a0b-bc98-22b8e3aec12c" width="100px" height="100px">
 </h1>
 
-- Explore my portfolio [here](https://trstnb1998.netlify.app/)! 🖥️
+- Explore my portfolio(It's under construction) [here](https://trstnb1998.netlify.app/)! 🖥️
 - Graduated from General Assembly's Software Engineering Immersive Bootcamp in June 2023 🎓
 - I'm actively seeking new opportunities, feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/tristanb1998/) 🤝
 - I've recently started my Codédex Journey!
