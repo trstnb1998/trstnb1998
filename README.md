@@ -18,14 +18,14 @@ Hello! I'm Tristan!
 <table align="center">
   <tr>
     <td>
-      <a href="https://getbootstrap.com/" title="Bootstrap"
+      <a href="https://v4.mui.com/static/logo.png" title="Bootstrap"
         ><img
           src="https://github.com/get-icon/geticon/raw/master/icons/bootstrap.svg"
-          alt="Bootstrap"
+          alt="Material UI"
           width="21px"
           height="21px"
       /></a>
-      BootStrap
+      Material UI
     </td>
     <td>
       <a href="https://www.w3.org/TR/CSS/" title="CSS3"
