@@ -18,7 +18,7 @@ Hello! I'm Tristan!
 <table align="center">
   <tr>
     <td>
-      <a href="https://v4.mui.com/static/logo.png" title="MUI"
+      <a href="https://mui.com/" title="MUI"
         ><img
           src="https://v4.mui.com/static/logo.png"
           alt="Material UI"
@@ -93,14 +93,14 @@ Hello! I'm Tristan!
       node.js
     </td>
     <td>
-      <a href="https://www.postgresql.org/" title="PostgreSQL"
+      <a href="https://nextjs.org/" title="NextJS"
         ><img
-          src="https://github.com/get-icon/geticon/raw/master/icons/postgresql.svg"
-          alt="PostgreSQL"
+          src="https://github.com/get-icon/geticon/raw/master/icons/nextjs.svg"
+          alt="NextJS"
           width="21px"
           height="21px"
       /></a>
-      Postgresql
+      NextJS
     </td>
     <td>
       <a href="https://reactjs.org/" title="React"
