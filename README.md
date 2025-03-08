@@ -18,9 +18,9 @@ Hello! I'm Tristan!
 <table align="center">
   <tr>
     <td>
-      <a href="https://v4.mui.com/static/logo.png" title="Bootstrap"
+      <a href="https://v4.mui.com/static/logo.png" title="MUI"
         ><img
-          src="https://github.com/get-icon/geticon/raw/master/icons/bootstrap.svg"
+          src="https://v4.mui.com/static/logo.png"
           alt="Material UI"
           width="21px"
           height="21px"
