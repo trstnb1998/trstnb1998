@@ -35,7 +35,7 @@ Hello! I'm Tristan!
           width="21px"
           height="21px"
       /></a>
-      CSS3
+      CSS
     </td>
     <td>
       <a href="https://expressjs.com/" title="Express"
