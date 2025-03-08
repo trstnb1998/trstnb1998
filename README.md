@@ -20,7 +20,7 @@ Hello! I'm Tristan!
     <td>
       <a href="https://mui.com/" title="MUI"
         ><img
-          src="https://github.com/get-icon/geticon/raw/master/icons/mui.svg"
+          src="https://github.com/get-icon/geticon/raw/master/icons/materialui.svg"
           alt="Material UI"
           width="21px"
           height="21px"
