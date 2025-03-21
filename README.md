@@ -6,7 +6,7 @@ Hello! I'm Tristan!
 
 - Explore my portfolio(under construction) [here](https://trstnb1998.netlify.app/)! 🖥️
 - Graduated from General Assembly's Software Engineering Immersive Bootcamp in June 2023 🎓
-- I'm actively seeking new opportunities, feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/tristanb1998/) 🤝
+- Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/tristanb1998/) 🤝
 - I've recently started my Codédex Journey!
 - Need to get in touch? Visit my website! 📧
 <div align="center">
